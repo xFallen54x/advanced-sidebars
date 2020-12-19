@@ -1,0 +1,31 @@
+
+{
+	"format_version": 1,
+	"header": {
+		"description": "§⭕§7 \n§7Made By: §5xFallen54x and §5xPMK744",
+		"name": "§l§c§⭕Advanced Siderbars (RP v1)",
+		"uuid": "b33fe2be-2f34-4e93-ad79-1aca7e2e43cc",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			2,
+			6
+		]
+	},
+	"modules": [
+		{
+			"version": [
+				0,
+				0,
+				1
+			],
+			"type": "resources",
+			"description": "§7Made By: §dxFallen54x",
+			"uuid": "f474421a-3ee3-4931-98c8-e7eb6649a924"
+		}
+	]
+}
