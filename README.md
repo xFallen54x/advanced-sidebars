@@ -9,7 +9,7 @@
 
 ## Why use Advanced Sidebars?
 
--   Ever wanted to make your own sidebar like the ones on server but don't know were to Start well this pack will help you make that come true.
+-   Ever wanted to make your own sidebar like the ones on Servers but don't know were to Start well this pack will help you make that come true.
 -   Easy to setup
 
 ## Getting started
