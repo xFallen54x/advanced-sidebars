@@ -14,7 +14,7 @@
 
 ## Getting started
 
-- The titleraw is what you will most likely be using for your sidebar. It uses rawtext json formating. The three componets you will be focusing on in your commands for the sidebar are *text*, *score*, and *selector*.
+- The titleraw is what you will most likely be using for your sidebar. It uses rawtext json formating. The three componets you will be focusing on in your commands for the sidebar are **text**, **score**, and **selector**.
 
 ## How to edit Sidebar placments 
 
