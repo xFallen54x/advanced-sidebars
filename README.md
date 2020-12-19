@@ -14,7 +14,8 @@
 
 ## Getting started
 
-- The titleraw is what you will most likely be using for your sidebar. It uses rawtext json formating. The three componets you will be focusing on in your commands for the sidebar are **text**, **score**, and **selector**.
+- The titleraw is what you will most likely be using for your sidebar. It uses rawtext json formating. The three componets you will be focusing on in your commands for the sidebar are **text**, **score**, and **selector**. Yor best bet for making the sidebar will be using functions instead of commands blocks it will be much easier in the end. 
+  - Command Example for creating your sidebar "execute @a ~~~ titleraw @s {"rawtext":[{"text":"§l§eFallen §bSkyblock \n §7Name: 
 
 ## How to edit Sidebar placments 
 
