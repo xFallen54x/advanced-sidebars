@@ -37,11 +37,11 @@
 ## How to edit Sidebar Placments
 
   ### Getting Started
-    - Just warning you if you do not have any resource pack develoment knowledge this will be harder for you to understand.
+   - Just warning you if you do not have any resource pack develoment knowledge this will be harder for you to understand.
 
-    - First things first download the **Advanced_Sidebar.zip** and then unzip the files and move everything to a folder located somewhere on your computer that you can easily access. When this is complete you will want to navigate inside that folder to **ui** and the you will want to open the **hud_screen.json**. If you don't have a code editor on your computer I suggest you use ***Microsoft's Visual Studio Code*** (This will be linked down below).
+   - First things first download the **Advanced_Sidebar.zip** and then unzip the files and move everything to a folder located somewhere on your computer that you can easily access. When this is complete you will want to navigate inside that folder to **ui** and the you will want to open the **hud_screen.json**. If you don't have a code editor on your computer I suggest you use ***Microsoft's Visual Studio Code*** (This will be linked down below).
 
-    - After doing the first few steps. On your code editer to find what we are looking for press your **Ctrl** and then **F** key to open up a search bar.
+   - After doing the first few steps. On your code editer to find what we are looking for press your **Ctrl** and then **F** key to open up a search bar.
 
 ## FAQ
 
