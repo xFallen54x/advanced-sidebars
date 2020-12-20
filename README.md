@@ -34,7 +34,10 @@
      
            Example:  ***titleraw @s {"rawtext":[{"text":"Money: "},{"score":{"name":"@s","objective":"Money"}]}***
     
-## How to edit Sidebar Placments 
+## How to edit Sidebar Placments
+
+### Getting Started
+  - Just for warning you if you do not have any resource pack develoment knowledge this will be harder for you to understand.
 
 ## FAQ
 
