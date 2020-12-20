@@ -34,7 +34,7 @@
      
            Example:  ***titleraw @s {"rawtext":[{"text":"Money: "},{"score":{"name":"@s","objective":"Money"}]}***
     
-## How to edit Sidebar Placments
+## How to edit Sidebar Placments and Text Allignments
 
   ### Getting Started
    - Just warning you if you do not have any resource pack develoment knowledge this will be harder for you to understand.
@@ -46,6 +46,11 @@
       - It should look something like this:
    
        <img alt="hud_title_text" src="https://media.discordapp.net/attachments/784646858197958706/790025966398734366/unknown.png?width=345&height=579">
+       
+       - To change the Sidebar placment you will change these two parts **anchor_from** and **anchor_to**.
+       
+       
+       - To change the allignment of the text you will change **text_alignment**
    
    
 
