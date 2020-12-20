@@ -49,6 +49,7 @@
        
        - To change the Sidebar placment you will change these two parts **anchor_from** and **anchor_to**.
        
+            <img alt="placment" src="https://media.discordapp.net/attachments/784646858197958706/790027685928763402/unknown.png?width=142&height=103">
        
        - To change the allignment of the text you will change **text_alignment**
    
