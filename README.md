@@ -41,7 +41,13 @@
 
    - First things first download the **Advanced_Sidebar.zip** and then unzip the files and move everything to a folder located somewhere on your computer that you can easily access. When this is complete you will want to navigate inside that folder to **ui** and the you will want to open the **hud_screen.json**. If you don't have a code editor on your computer I suggest you use ***Microsoft's Visual Studio Code*** (This will be linked down below).
 
-   - After doing the first few steps. On your code editer to find what we are looking for press your **Ctrl** and then **F** key to open up a search bar.
+   - After doing the first few steps. On your code editer to find what we are looking for press your **Ctrl** and then **F** key to open up a search bar. After doing so search for **hud_title_text** this is the component we will be changing. 
+   
+   It should look something like this:
+   
+   <img alt="hud_title_text" src="https://media.discordapp.net/attachments/784646858197958706/790025966398734366/unknown.png?width=345&height=579">
+   
+   
 
 ## FAQ
 
