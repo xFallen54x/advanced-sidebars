@@ -18,7 +18,7 @@
  
 - Command Example for creating your sidebar execute @a ~~~ ***titleraw @s {"rawtext":[{"text":"§l§eFallen §bSkyblock \n §7Name: §b"},{"selector":"@s"},{"text":"\n §7Balance: §a$},{"score":{"name":"@s","objective":"Balance"}}]}***
   - ## How it works
-    - the
+    - The text componet will display as any normal text, but for your sidebar you will need multiple lines. Thats what **\n** is for as shown in the command example above.
 
 ## How to edit Sidebar placments 
 
