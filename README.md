@@ -18,7 +18,9 @@
  
 - Command Example for creating your sidebar execute @a ~~~ ***titleraw @s {"rawtext":[{"text":"§l§eFallen §bSkyblock \n §7Name: §b"},{"selector":"@s"},{"text":"\n §7Balance: §a$},{"score":{"name":"@s","objective":"Balance"}}]}***
   - ## How it works
-    - The **text** componet will display as any normal text, but for your sidebar you will need multiple lines. Thats what **\n** is for as shown in the command example above. Most people already know this but for those who don't know this symbol **§** will allow you to color or format your text on your sidebar. <img alt="§" src="https://media.discordapp.net/attachments/789321466977976342/790010505410379826/OIP.jpeg?width=263&height=324">
+    - The **text** componet will display as any normal text, but for your sidebar you will need multiple lines. Thats what **\n** is for as shown in the command example above. Most people already know this but for those who don't know this symbol **§** will allow you to color or format your text on your sidebar. 
+    
+    <img alt="§" src="https://media.discordapp.net/attachments/789321466977976342/790010505410379826/OIP.jpeg?width=263&height=324">
     
 ## How to edit Sidebar placments 
 
