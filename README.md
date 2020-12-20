@@ -20,9 +20,9 @@
   - ## How it works
     - The **text** componet will display as any normal text, but for your sidebar you will need multiple lines. Thats what **\n** is for as shown in the command example above. Most people already know this but for those who don't know this symbol **§** will allow you to color or format your text on your sidebar. 
     
-    - <img alt="§" src="https://media.discordapp.net/attachments/789321466977976342/790010505410379826/OIP.jpeg?width=263&height=324">
+      <img alt="§" src="https://media.discordapp.net/attachments/789321466977976342/790010505410379826/OIP.jpeg?width=263&height=324">
     
-     The **selector** componet will display an entity's name. If you want to display the players name on their Sidebar you would use **@s**. (Will go more into detail later on, this could also be used to make suffixes for player scores. Example: ***10000 -> 10,000 or 10000 -> 10.00K***
+     - The **selector** componet will display an entity's name. If you want to display the players name on their Sidebar you would use **@s**. (Will go more into detail later on, this could also be used to make suffixes for player scores. Example: ***10000 -> 10,000 or 10000 -> 10.00K***
     
 ## How to edit Sidebar placments 
 
