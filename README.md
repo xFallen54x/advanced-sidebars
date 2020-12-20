@@ -43,9 +43,9 @@
 
    - After doing the first few steps. On your code editer to find what we are looking for press your **Ctrl** and then **F** key to open up a search bar. After doing so search for **hud_title_text** this is the component we will be changing. 
    
-   It should look something like this:
+      - It should look something like this:
    
-   <img alt="hud_title_text" src="https://media.discordapp.net/attachments/784646858197958706/790025966398734366/unknown.png?width=345&height=579">
+       <img alt="hud_title_text" src="https://media.discordapp.net/attachments/784646858197958706/790025966398734366/unknown.png?width=345&height=579">
    
    
 
