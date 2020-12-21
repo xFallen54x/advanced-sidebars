@@ -1,4 +1,4 @@
 Remove subpacks
 set alignment to center
 add leftside sidebar
-Maybe custom bossbar that replaces the actionbar
+Maybe custom bossbar that replaces the actionbar  --I like this idea (xFallen54x)
